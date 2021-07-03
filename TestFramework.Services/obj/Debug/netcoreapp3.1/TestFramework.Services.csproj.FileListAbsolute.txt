@@ -6,3 +6,12 @@ C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\Test
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.csproj.CoreCompileInputs.cache
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.dll
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.pdb
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\bin\Debug\netcoreapp3.1\TestFramework.Services.deps.json
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\bin\Debug\netcoreapp3.1\TestFramework.Services.dll
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\bin\Debug\netcoreapp3.1\TestFramework.Services.pdb
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.csproj.AssemblyReference.cache
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.AssemblyInfoInputs.cache
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.AssemblyInfo.cs
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.dll
+C:\Users\thinkpad-e560\Source\Repos\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.pdb

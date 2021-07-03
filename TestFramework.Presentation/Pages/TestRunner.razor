@@ -36,7 +36,6 @@
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
-        //await _testService.RunTests();
     }
 
     public class WeatherForecast
