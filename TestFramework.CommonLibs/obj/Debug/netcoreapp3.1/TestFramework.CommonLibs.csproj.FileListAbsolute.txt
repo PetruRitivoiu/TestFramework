@@ -1,0 +1,8 @@
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\bin\Debug\netcoreapp3.1\TestFramework.CommonLibs.deps.json
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\bin\Debug\netcoreapp3.1\TestFramework.CommonLibs.dll
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\bin\Debug\netcoreapp3.1\TestFramework.CommonLibs.pdb
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\obj\Debug\netcoreapp3.1\TestFramework.CommonLibs.AssemblyInfoInputs.cache
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\obj\Debug\netcoreapp3.1\TestFramework.CommonLibs.AssemblyInfo.cs
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\obj\Debug\netcoreapp3.1\TestFramework.CommonLibs.csproj.CoreCompileInputs.cache
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\obj\Debug\netcoreapp3.1\TestFramework.CommonLibs.dll
+C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.CommonLibs\obj\Debug\netcoreapp3.1\TestFramework.CommonLibs.pdb
