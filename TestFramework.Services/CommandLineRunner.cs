@@ -50,19 +50,19 @@ namespace TestFramework.Services
                     {
                         RedirectStandardOutput = true,
                         UseShellExecute = false,
-                        CreateNoWindow = true
+                        CreateNoWindow = false
                     };
 
                     // Now we create a process, assign its ProcessStartInfo and start it                
                     proc.StartInfo = procStartInfo;
                     proc.Start();
 
+                    proc.WaitForExit();
+
                     // Get the output into a string if you want!
                     string result = proc.StandardOutput.ReadToEnd();
                     // Display the command output.
                     Debug.WriteLine(result);
-
-                    proc.WaitForExit();
                 }
                 catch (Exception objException)
                 {
@@ -74,7 +74,7 @@ namespace TestFramework.Services
 
         public async Task RunTests()
         {
-            var command = @"dotnet vstest C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework-master\TestFramework.Tests\bin\Debug\netcoreapp3.1\TestFramework.Tests.dll";
+            var command = @"dotnet vstest ""C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Tests\bin\Debug\netcoreapp3.1\TestFramework.Tests.dll""";
 
             await ExecuteCommand(command);
         }

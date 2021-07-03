@@ -3608,19 +3608,20 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "StK+5H0NcHzoRFa+PRroPVcX0sIXB2AiB1N/IuqoNDhh3gagHWcDXSaUnIjVWURi8Gjm7Th158KUlXkkEUhINg==",
+      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
-        "Microsoft.CodeAnalysis.Analyzers.1.1.0.nupkg.sha512",
-        "Microsoft.CodeAnalysis.Analyzers.nuspec",
+        ".signature.p7s",
         "ThirdPartyNotices.rtf",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.CSharp.Analyzers.dll",
         "analyzers/dotnet/vb/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/vb/Microsoft.CodeAnalysis.VisualBasic.Analyzers.dll",
+        "microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
+        "microsoft.codeanalysis.analyzers.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
       ]
@@ -6826,13 +6827,12 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "PcgHAZ1zeTIMzT9/DH0zzw/Z3kOopv3z41tNU65eSlPtg5/m6k1xIn6XVpwIrebHlge4sVEwKpu+AltqKQyxxA==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
         ".nupkg.metadata",
-        "System.Linq.Queryable.4.0.1.nupkg.sha512",
-        "System.Linq.Queryable.nuspec",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/monoandroid10/_._",
@@ -6880,7 +6880,9 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._"
+        "ref/xamarinwatchos10/_._",
+        "system.linq.queryable.4.0.1.nupkg.sha512",
+        "system.linq.queryable.nuspec"
       ]
     },
     "System.Memory/4.5.1": {
@@ -9605,23 +9607,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thinkpad-e560\\.nuget\\packages\\": {},
+    "C:\\Users\\petru.ritivoiu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.Tests\\TestFramework.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.Tests\\TestFramework.Tests.csproj",
       "projectName": "TestFramework.Tests",
-      "projectPath": "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.Tests\\TestFramework.Tests.csproj",
-      "packagesPath": "C:\\Users\\thinkpad-e560\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.Tests\\obj\\",
+      "projectPath": "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.Tests\\TestFramework.Tests.csproj",
+      "packagesPath": "C:\\Users\\petru.ritivoiu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\thinkpad-e560\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\petru.ritivoiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9636,11 +9638,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.Application\\TestFramework.Application.csproj": {
-              "projectPath": "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.Application\\TestFramework.Application.csproj"
+            "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.Application\\TestFramework.Application.csproj": {
+              "projectPath": "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.Application\\TestFramework.Application.csproj"
             },
-            "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.CommonLibs\\TestFramework.CommonLibs.csproj": {
-              "projectPath": "C:\\Users\\thinkpad-e560\\Source\\Repos\\TestFramework\\TestFramework.CommonLibs\\TestFramework.CommonLibs.csproj"
+            "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.CommonLibs\\TestFramework.CommonLibs.csproj": {
+              "projectPath": "C:\\Users\\petru.ritivoiu\\OneDrive - 888Holdings\\Desktop\\TestFramework\\TestFramework.CommonLibs\\TestFramework.CommonLibs.csproj"
             }
           }
         }
@@ -9699,7 +9701,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

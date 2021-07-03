@@ -11,16 +11,25 @@ namespace TestFramework.Services
             await commandLineRunner.RunTests();
         }
 
-        public Task SendMail()
+        public async Task SendMail()
         {
-            using var smtpClient = new SmtpClient();
-            using var message = new MailMessage("no-reply@Automation.com", "p.ritivoiu@gmail.com");
+            await Task.Run(() =>
+            {
+                using var smtpClient = new SmtpClient()
+                {
+                    EnableSsl = false,
+                    UseDefaultCredentials = true,
+                    DeliveryMethod = SmtpDeliveryMethod.PickupDirectoryFromIis
+                };
 
-            message.Subject = "Test Automation results";
-            message.Body = "Please find the attached report for detailed results";
-            message.Attachments.Add(new Attachment(@"C:\Users\thinkpad-e560\Desktop\SeleniumTesting\ModularFramework\reports\index.html"));
+                using var message = new MailMessage("no-reply@automation.com", "p.ritivoiu@gmail.com");
 
-            smtpClient.Send(message);
+                message.Subject = "Test Automation results";
+                message.Body = "Please find the attached report for detailed results";
+                message.Attachments.Add(new Attachment(@"C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\reports\index.html"));
+
+                smtpClient.Send(message);
+            }).ConfigureAwait(false);
         }
     }
 }

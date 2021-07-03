@@ -14,8 +14,8 @@ namespace TestFramework.Tests
 
         protected ExtentReportUtils extentReportUtils;
         protected ScreenshotUtils screenshotUtils;
-        protected string reportsFolderPath = @"C:\Users\thinkpad-e560\Desktop\SeleniumTesting\ModularFramework\reports\index.html"; //weird bug from ExtentReports
-        protected string screenshotFolderPath = @"C:\Users\thinkpad-e560\Desktop\SeleniumTesting\ModularFramework\screenshots\screenshot";
+        protected string reportsFolderPath = @"C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\reports\index.html"; //weird bug from ExtentReports
+        protected string screenshotFolderPath = @"C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\screenshots\screenshot";
 
         [OneTimeSetUp]
         public void OneTimeSetUp()
