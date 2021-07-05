@@ -39,5 +39,21 @@ namespace TestFramework.Tests
 
             Assert.That(expectedTitle == actualTitle);
         }
+
+        [Test]
+        public void SignInButtonTest()
+        {
+            extentReportUtils.CreateATestCase("Facebook button test");
+            extentReportUtils.AddTestLog(AventStack.ExtentReports.Status.Info, $"{nameof(SignInButtonTest)} - {nameof(SignInButtonTest)} exection started");
+
+            commonDriver.NavigateToFirstURL(url);
+            var homePage = new IMDBHomePage(commonDriver.Driver);
+            homePage.ClickSignInButton();
+
+            var expectedTitle = "Sign in with IMDb - IMDb";
+            var actualTitle = commonDriver.PageTitle;
+
+            Assert.That(expectedTitle == actualTitle);
+        }
     }
 }
