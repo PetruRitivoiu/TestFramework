@@ -1,7 +1,6 @@
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\bin\Debug\netcoreapp3.1\TestFramework.Services.deps.json
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\bin\Debug\netcoreapp3.1\TestFramework.Services.dll
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\bin\Debug\netcoreapp3.1\TestFramework.Services.pdb
-C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.csproj.AssemblyReference.cache
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.AssemblyInfoInputs.cache
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.AssemblyInfo.cs
 C:\Users\petru.ritivoiu\OneDrive - 888Holdings\Desktop\TestFramework\TestFramework.Services\obj\Debug\netcoreapp3.1\TestFramework.Services.csproj.CoreCompileInputs.cache

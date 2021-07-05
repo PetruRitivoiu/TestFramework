@@ -24,8 +24,7 @@ namespace TestFramework.Api.Controllers
         [HttpPost]
         public async Task Post()
         {
-            //await _automationService.RunTests();
-            await _automationService.SendMail();
+            await _automationService.RunTests();
         }
     }
 }

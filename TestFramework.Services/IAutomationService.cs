@@ -8,6 +8,5 @@ namespace TestFramework.Services
     public interface IAutomationService
     {
         Task RunTests();
-        Task SendMail();
     }
 }
